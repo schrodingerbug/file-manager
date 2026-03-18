@@ -13,3 +13,11 @@ PyCharm,VSCode,whatever.Even IDLE.
 Just not browser environments,it wont work.
 
 I have put a test.txt file in the repo,try testing that out with the program(Spoiler Alert:It works!)
+
+I have also added a .exe file.
+
+This is to make it more like an app.
+
+Search up how to put .exe files on a taskbar and make it run script.I recommend using your primary .py opener as Python 3.13.
+
+This is mainly to make it feel more like an application than just a program.
