@@ -24,4 +24,4 @@ This is mainly to make it feel more like an application than just a program.
 
 You can also open applications using it by just typing its full name.
 
-For example,type "chrome.exe" for Chrome,"notepad.exe" for Notepad,and "Tasmgr.exe" for Task Manager.This works for all apps,but these are just some examples.You can type it without the full directory,just the name (unlike files).
+For example,type "chrome.exe" for Chrome,"notepad.exe" for Notepad,"calc.exe" for the Calculator and "taskmgr.exe" for Task Manager.This works for all apps,but these are just some examples.You can type it without the full directory,just the name (unlike files).
