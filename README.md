@@ -21,3 +21,7 @@ This is to make it more like an app.I mostly put it as a fast-track for those wh
 Search up how to put .exe files on a taskbar and make it run script.I recommend using your primary .py opener as Python 3.13.
 
 This is mainly to make it feel more like an application than just a program.
+
+You can also open applications using it by just typing its full name.
+
+For example,type "chrome.exe" for Chrome,"notepad.exe" for Notepad,and "Tasmgr.exe" for Task Manager.This works for all apps,but these are just some examples.You can type it without the full directory,just the name (unlike files).
